@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+ex2-template/week2_bootstrap_template.py
+ex2-template/week2_heart_disease_data.csv
